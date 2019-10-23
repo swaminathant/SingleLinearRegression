@@ -1,2 +1,2 @@
-# ML
-Machine learning codes from scratch.
+# Single linear regression
+Single linear regression entire algorithm from scratch.
