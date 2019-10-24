@@ -31,8 +31,6 @@ class SinglelinearRegression:
             meansmultiple = sum(XmeanYmeansum)
             self.B1 = meansmultiple / sqrtX
             self.B0 = Yaverage - self.B1 * Xaverage
-            print("B1, B0",self.B1, self.B0)
-
             for xint, predit in zip(Xinput, Youtput):
                 ypredicted.append(self.B0 + self.B1 * xint)
             return ypredicted
