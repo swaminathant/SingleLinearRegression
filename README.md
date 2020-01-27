@@ -1,4 +1,7 @@
 # Single linear regression
+
+The source code is for educational purpose only about single linear regression. Free for any purpose. Implementing in production or any of your product at your own risk.
+
 Single linear regression entire algorithm from scratch using python.
 
 Age as X and predict salary as Y
